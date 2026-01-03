@@ -1,0 +1,8 @@
+{
+  "name": "Vitória Trigueira | Studio Trigueira Braids",
+  "description": "Plataforma profissional para agendamento e gestão de tranças afro e estética capilar do Studio Trigueira Braids.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
